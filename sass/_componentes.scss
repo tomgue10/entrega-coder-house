@@ -1,0 +1,45 @@
+$color-principal: #BFF205;
+$color-secundario: #01141B;
+$color-terciario: white;
+
+
+*{margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif} 
+
+nav{background-color: $color-secundario;}
+
+.navbar-brand {color: $color-principal;
+    font-weight: 900;}
+
+#inicio{color: $color-terciario;}
+
+.nav-link{color: $color-terciario;}
+
+.navbar-toggler{color: $color-terciario;}
+    
+.textoRegular{color: $color-terciario;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 0px;
+    padding-bottom: 30px;}
+
+.textoRegular2{color: #BFF205;
+    padding-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 15%;
+    padding-right: 10%;
+    font-weight: 300;
+    font-style: italic;}
+
+footer{display: flex;
+    justify-content: flex-end;
+    border-top: solid $color-terciario 1px;
+    background-color: $color-secundario;}
+
+.footerImg{padding: 15px;
+    height: 60px;
+    width: 60px;}
+
+.main{background-color: $color-secundario;}
+    

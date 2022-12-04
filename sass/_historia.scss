@@ -1,0 +1,18 @@
+$color-principal: #BFF205;
+$color-secundario: #01141B;
+$color-terciario: white;
+
+.historiaTitulo{margin-top: 0px;
+    color: $color-principal;
+    font-weight: 900;
+    padding-left: 10%;
+    margin-bottom: 4px;}
+
+.title{padding-top: 30px;}
+
+.historiaTitulo2{margin-top: 20px;
+    color: $color-principal;
+    font-weight: 900;
+    padding-left: 10%;}
+
+main{background-color: $color-secundario;}

@@ -1,0 +1,275 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+nav {
+  background-color: #01141B;
+}
+
+.navbar-brand {
+  color: #BFF205;
+  font-weight: 900;
+}
+
+#inicio {
+  color: white;
+}
+
+.nav-link {
+  color: white;
+}
+
+.navbar-toggler {
+  color: white;
+}
+
+.textoRegular {
+  color: white;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 0px;
+  padding-bottom: 30px;
+}
+
+.textoRegular2 {
+  color: #BFF205;
+  padding-top: 30px;
+  margin-bottom: 30px;
+  padding-left: 15%;
+  padding-right: 10%;
+  font-weight: 300;
+  font-style: italic;
+}
+
+footer {
+  display: flex;
+  justify-content: flex-end;
+  border-top: solid white 1px;
+  background-color: #01141B;
+}
+
+.footerImg {
+  padding: 15px;
+  height: 60px;
+  width: 60px;
+}
+
+.main {
+  background-color: #01141B;
+}
+
+.landingpage {
+  background-image: url(../img/fotomessi.jpg);
+  background-size: 100vw;
+  background-repeat: no-repeat;
+  margin: 0;
+}
+
+.landingh1 {
+  padding-top: 50%;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  color: #BFF205;
+  font-weight: bold;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+.homeSection {
+  background-color: #01141B;
+  padding-top: 35px;
+}
+
+.iconos-stats {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70px;
+  padding: 0%;
+  margin: 0px;
+}
+
+.stats {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.row {
+  margin: 0;
+  padding: 0%;
+}
+
+.statsh2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+  padding-top: 10px;
+  text-align: center;
+  color: white;
+}
+
+.statsh2-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+  padding-top: 10px;
+  text-align: center;
+  color: white;
+}
+
+.statsh2-2:hover {
+  color: #BFF205;
+}
+
+.cajita-container {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.cajita {
+  width: 250px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+h3 {
+  color: #BFF205;
+  font-weight: 700;
+}
+
+h3:hover {
+  color: #01141B;
+  background-color: #BFF205;
+}
+
+.estadisticas {
+  display: flex;
+  color: white;
+  font-weight: 800;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 30px;
+  background-color: #01141B;
+}
+.estadisticas .goles {
+  background-color: #BFF205;
+  color: #01141B;
+  font-weight: 800;
+  margin-left: 20px;
+  padding-left: 20px;
+}
+.estadisticas .asistencias {
+  background-color: #BFF205;
+  color: #01141B;
+  margin-left: 20px;
+  padding-left: 20px;
+}
+.estadisticas .partidos {
+  background-color: #BFF205;
+  color: #01141B;
+  margin-left: 20px;
+  padding-left: 20px;
+}
+.estadisticas .titulos {
+  background-color: #BFF205;
+  color: #01141B;
+  margin-left: 20px;
+  padding-left: 20px;
+}
+.estadisticas .premios {
+  background-color: #BFF205;
+  color: #01141B;
+  margin-left: 20px;
+  padding-left: 20px;
+}
+
+.stats-section {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.historiaTitulo {
+  margin-top: 0px;
+  color: #BFF205;
+  font-weight: 900;
+  padding-left: 10%;
+  margin-bottom: 4px;
+}
+
+.title {
+  padding-top: 30px;
+}
+
+.historiaTitulo2 {
+  margin-top: 20px;
+  color: #BFF205;
+  font-weight: 900;
+  padding-left: 10%;
+}
+
+main {
+  background-color: #01141B;
+}
+
+.slide {
+  margin-left: 20px;
+  margin-right: 20px;
+  border: solid #BFF205 3px;
+}
+
+.galeria-main {
+  padding-bottom: 20px;
+}
+
+.contactoMargin {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.mail {
+  color: white;
+}
+
+.nombre {
+  color: white;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+  align-items: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+input {
+  margin-left: 7px;
+  margin-right: 7px;
+}
+
+.contacto-main {
+  padding-top: 245px;
+  padding-bottom: 245px;
+}
+
+.contatoh1 {
+  color: #BFF205;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+/*# sourceMappingURL=estilos.css.map */
